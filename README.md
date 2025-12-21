@@ -1,5 +1,6 @@
 ![Header](https://github.com/tikyy01/tikyy01/blob/main/assets/a.jpg)
 
-###contact
-[![Telegram](https://img.shields.io/badge/-Telegram-999999?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/tikyydc)
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tikyydc)
+### contact
+[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-27A0D9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/tikyydc)
+
+[![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/tikyydc)
